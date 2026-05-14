@@ -4,5 +4,5 @@ root: README
 
 parts:
 - caption: Logistics
-    chapters:
-      - file: docs/project-timeline.md
+  chapters:
+    - file: docs/project-timeline.md
