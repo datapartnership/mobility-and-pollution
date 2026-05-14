@@ -35,7 +35,7 @@ TCI is available for the following cities. If you pick cities outside of this, y
 - New York, USA
 - Mumbai, India
 - Paris, France
-- Qualitative analysis 
+- Qualitative analysis for Myanmar
 
 
 ## Previous Research
