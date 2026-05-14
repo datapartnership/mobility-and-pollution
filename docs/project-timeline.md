@@ -2,8 +2,8 @@
 
 | Date | Activity | Who |
 |------|----------|-----|
-| **Week 1** | **W/C 14 May 2026** | |
-| | First meeting — introduce the project | Marc, Liang, Claudia, Sol, Sahiti, Students |
+| **Week 1** | **W/C 11 May 2026** | |
+|Thu 14 May | First meeting — introduce the project | Marc, Liang, Claudia, Sol, Sahiti, Students |
 | **Week 2** | **W/C 21 May 2026** | |
 | | Download shapefiles, population data, other foundational data, get familiar with GitHub, identify the country you are working on, identify scope of the research | Students |
 | | Literature review based on the research questions, and last year's research | Students |
